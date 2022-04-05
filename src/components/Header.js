@@ -1,10 +1,10 @@
 import React from 'react';
 import logo from "../images/logo.svg";
 
-function Header (){
+function Header() {
     return (
         <header className="header">
-            <img src={logo} className="header__logo" alt="Место" />
+            <img src={logo} className="header__logo" alt="Место"/>
         </header>)
 }
 
