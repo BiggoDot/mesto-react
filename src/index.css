@@ -34,6 +34,7 @@
 @import url(./block/photo/photo.css);
 @import url(./block/photo/__grid/photo__grid.css);
 @import url(./block/photo/__delete/photo__delete.css);
+@import url(./block/photo/__delete/_hidden/photo__delete_hidden.css);
 @import url(./block/photo/__item/photo__item.css);
 @import url(./block/photo/__container/photo__container.css);
 @import url(./block/photo/__description/photo__description.css);
