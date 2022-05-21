@@ -1,6 +1,7 @@
 # Project: Mesto
 Instagram-like single page application on react.
 Here a user is able to edit their profile and change the avatar, as well as add and delete their images. Furthermore, users can like pictures of their own and the other people that are connected to the server.
+
 When the button for editing is pressed, a modal window with inputs will pop up.
 All the written data in the inputs will be sent to the server such outcome will prevent the loss of user's information after reloading of the webpage.
 
